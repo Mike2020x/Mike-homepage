@@ -12,9 +12,9 @@ body {
   --primary-text-color: #181820;
   --secondary-text-color: #5c5c62;
   --durability-text-color: #6a737d9c;
-  --icon-color: black;
-  --border-color: #ff9a0045;
-  --text-decoration-color: #ff9a00;
+  --icon-color: rgb(0, 0, 0);
+  --border-color: #2bb055;
+  --text-decoration-color: #2bb055;
 }
 
 .container {
@@ -147,8 +147,8 @@ body {
   content: "";
   border-radius: 50%;
   position: absolute;
-  width: 50px;
-  height: 50px;
+  width: 150px;
+  height: 150px;
   top: 0px;
   left: 25px;
 }
